@@ -1,0 +1,11 @@
+# ignore data folder
+data/
+
+# ignore ipynb related logs
+.ipynb_checkpoints
+
+# DS_Store
+.DS_Store
+
+# Visual Studio Related Logs
+.vscode
